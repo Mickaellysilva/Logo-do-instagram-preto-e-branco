@@ -1,0 +1,44 @@
+body{
+  background-color:#d3d3d3
+
+}
+
+#caixa{
+  width:25.0rem;
+  height:25.0rem;
+  background-color: black;
+  border-radius:65px;
+  margin-top:5.0rem;
+  margin-left:5.0rem;
+  margin-bottom:5.0rem;
+}
+
+#white{
+  width: 4.0rem;
+  height: 4.0rem;
+  background-color:white;
+  border-radius:100px;
+  position: relative;
+  top:1.8rem;
+  left:17.8rem;
+}
+
+#blue{
+  width: 12.5rem;
+  height: 12.0rem;
+  background-color:white;
+  border-radius:100%;
+  position: relative;
+  top:2.5rem;
+  left:6.5rem;
+}
+
+#black{
+  width: 7.9rem;
+  height:7.9rem;
+  background-color:black;
+  border-radius:100%;
+  position: relative;
+  top:-7.4rem;
+  left:35%;
+}
